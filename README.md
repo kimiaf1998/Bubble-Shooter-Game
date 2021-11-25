@@ -6,6 +6,7 @@ Shooting colorful bubbles toward the moving sequence of bubbles in a limited tim
 
 
 
+
 ## Requirements
 
 
@@ -15,10 +16,12 @@ Shooting colorful bubbles toward the moving sequence of bubbles in a limited tim
 
 
 
+
 ## How to run
 * Clone the repository
 * Open the project in Dev C++
 * Run the main.cpp file inside the src
+
 
 
 
