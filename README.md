@@ -8,9 +8,9 @@ Shooting colorful bubbles toward the moving sequence of bubbles in a limited tim
 ## Requirements
 
 
-C++  version 11 or greater
-SMFL Library
-Dev-C++ IDE
+- C++  version 11 or greater
+- SMFL Library
+- Dev-C++ IDE
 
 
 ## How to run
