@@ -20,3 +20,6 @@ Shooting colorful bubbles toward the moving sequence of bubbles in a limited tim
 
 
 ## Output
+
+
+<img src="https://user-images.githubusercontent.com/47594854/143402379-951db5c0-9c8f-4242-8afa-cba2377d2bec.png" width="300")
