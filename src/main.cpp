@@ -304,9 +304,9 @@ void drawAbout()
     d1.setPosition(860,275);
     d1.setCharacterSize(35);
     d2.setFont(ARIAL_FONT);
-    d2.setString("Developed by Mohammad Jalili & Kimia Afshari");
+    d2.setString("Developed by Kimia Afshari");
     d2.setColor(sf::Color::White);
-    d2.setPosition(646,868);
+    d2.setPosition(740,868);
     d2.setCharacterSize(25);
     d3.setFont(ARIAL_FONT);
     d3.setString("2017 - 01 - 18");
