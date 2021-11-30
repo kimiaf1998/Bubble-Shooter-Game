@@ -18,6 +18,8 @@ Shooting colorful bubbles toward the moving sequence of bubbles in a limited tim
 * Open the project in Dev C++
 * Run the main.cpp file inside the src
 * Select your option from main menu
+* Change the direction of the bubble by moving your mouse
+* Throw the bubble in the right direction by clicking  
 
 
 ## Output
