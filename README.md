@@ -27,7 +27,7 @@ Shooting colorful bubbles toward the moving sequence of bubbles in a limited tim
 
 <img src="https://user-images.githubusercontent.com/47594854/143923476-f27f14f7-2dbf-4e8f-b805-7af2b8d18b3d.png" width="300">
 
-#Schema
+#Game View
 
 <img src="https://user-images.githubusercontent.com/47594854/143923442-dd85b80b-4bea-46f9-87b8-55d19e47c10d.png" width="300">
 
