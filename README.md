@@ -1,38 +1,46 @@
 # Bubble Shooter Game
 
+A Graphical and Desktop Game, Developed in `C++`, by using of `SFML` library.
 
-A fascinating open source and graphical game written by ``C++`` using ``SFML`` library 
-Shooting colorful bubbles toward the moving sequence of bubbles in a limited time with mouse. This game has been developed as an educational project under ``C++``.
+Shooting the colorful balls with mouse click toward the sequence of balls to match the same balls and stop the sequence from reaching the dead point. Move your mouse to change the direction of the frog's arrow and click to shoot the balls! 
 
+Given that this open-source game was developed and tested under `Linux` OS, the following instructions are suggested on this OS. 
 
-## Requirements
+Windows or macOS are not supported yet.
 
+Any collaboration would be appreciated.
 
-- C++  version 11 or greater
-- SMFL Library
-- Dev-C++ IDE
+------------
 
+### Requirements
+- C++ Programming Language (version 11 or higher is suggested)
+-  SFML Library
 
-## How to run
-* Clone the repository
-* Open the project in Dev C++
-* Run the main.cpp file inside the src
-* Select your option from main menu
-* Change the direction of the bubble by moving your mouse
-* Throw the bubble in the right direction by clicking  
+<br/>
 
+### Compile
 
-## Output
+1. Download the repository by clicking on[ this link](https://github.com/kimiaf1998/Bubble-Shooter-Game/archive/refs/heads/master.zip " this link") then extract it, or clone it using:
+```bash
+git clone  https://github.com/kimiaf1998/Bubble-Shooter-Game.git
+```
 
+2. Open the terminal on the repository directory and compile it using `g++`:
+```bash
+g++ src/main.cpp -o zuma_deluxe -lsfml-graphics -lsfml-window -lsfml-system
+```
 
-#Main Menu
+<br/>
 
-<img src="https://user-images.githubusercontent.com/47594854/143923476-f27f14f7-2dbf-4e8f-b805-7af2b8d18b3d.png" width="300">
+### Run
+Finally, run the executable file simply using:
+```bash
+./zuma_deluxe
+```
 
-#Game View
+<br/>
 
-<img src="https://user-images.githubusercontent.com/47594854/143923442-dd85b80b-4bea-46f9-87b8-55d19e47c10d.png" width="300">
-
-#About
-
-<img src="https://user-images.githubusercontent.com/47594854/143923206-90746869-f859-4d15-a77b-af4c1652e9a1.png" width="300">
+### Screenshots
+| ![scr1](https://github.com/kimiaf1998/Bubble-Shooter-Game/screenshots/1.png "scr1") | ![scr2](https://github.com/kimiaf1998/Bubble-Shooter-Game/screenshots/2.png "scr2") |
+| ------------ | ------------ |
+| ![scr4](https://github.com/kimiaf1998/Bubble-Shooter-Game/screenshots/3.png "scr4") | ![scr3](https://github.com/kimiaf1998/Bubble-Shooter-Game/screenshots/4.png "scr3") |
