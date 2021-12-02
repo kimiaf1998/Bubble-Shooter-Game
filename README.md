@@ -27,7 +27,7 @@ git clone  https://github.com/kimiaf1998/Bubble-Shooter-Game.git
 
 2. Open the terminal on the repository directory and compile it using `g++`:
 ```bash
-g++ src/main.cpp -o zuma_deluxe -lsfml-graphics -lsfml-window -lsfml-system
+g++ src/main.cpp -o b_shooter -lsfml-graphics -lsfml-window -lsfml-system
 ```
 
 <br/>
@@ -35,12 +35,12 @@ g++ src/main.cpp -o zuma_deluxe -lsfml-graphics -lsfml-window -lsfml-system
 ### Run
 Finally, run the executable file simply using:
 ```bash
-./zuma_deluxe
+./b_shooter
 ```
 
 <br/>
 
 ### Screenshots
-| ![scr1](https://github.com/kimiaf1998/Bubble-Shooter-Game/blob/master/screenshots/1.png "scr1") | ![scr2](https://github.com/kimiaf1998/Bubble-Shooter-Game/blob/master/screenshots/2.png "scr2") |
+| ![scr1](https://github.com/kimiaf1998/Bubble-Shooter-Game/blob/master/screenshots/3.png "scr1") | ![scr2](https://github.com/kimiaf1998/Bubble-Shooter-Game/blob/master/screenshots/2.png "scr2") |
 | ------------ | ------------ |
-| ![scr4](https://github.com/kimiaf1998/Bubble-Shooter-Game/blob/master/screenshots/4.png "scr4") | ![scr3](https://github.com/kimiaf1998/Bubble-Shooter-Game/blob/master/screenshots/3.png "scr3") |
+| ![scr4](https://github.com/kimiaf1998/Bubble-Shooter-Game/blob/master/screenshots/4.png "scr4") | ![scr3](https://github.com/kimiaf1998/Bubble-Shooter-Game/blob/master/screenshots/1.png "scr3") |
