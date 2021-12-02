@@ -41,6 +41,6 @@ Finally, run the executable file simply using:
 <br/>
 
 ### Screenshots
-| ![scr1](https://github.com/kimiaf1998/Bubble-Shooter-Game/screenshots/1.png "scr1") | ![scr2](https://github.com/kimiaf1998/Bubble-Shooter-Game/screenshots/2.png "scr2") |
+| ![scr1](https://github.com/kimiaf1998/Bubble-Shooter-Game/blob/master/screenshots/1.png "scr1") | ![scr2](https://github.com/kimiaf1998/Bubble-Shooter-Game/blob/master/screenshots/2.png "scr2") |
 | ------------ | ------------ |
-| ![scr4](https://github.com/kimiaf1998/Bubble-Shooter-Game/screenshots/3.png "scr4") | ![scr3](https://github.com/kimiaf1998/Bubble-Shooter-Game/screenshots/4.png "scr3") |
+| ![scr4](https://github.com/kimiaf1998/Bubble-Shooter-Game/blob/master/screenshots/4.png "scr4") | ![scr3](https://github.com/kimiaf1998/Bubble-Shooter-Game/blob/master/screenshots/3.png "scr3") |
