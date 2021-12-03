@@ -16,7 +16,7 @@ Any collaboration would be appreciated.
 - C++ Programming Language (version 11 or higher is suggested)
 -  SFML Library
 
-<br/>
+
 
 ### Compile
 
@@ -30,7 +30,7 @@ git clone  https://github.com/kimiaf1998/Bubble-Shooter-Game.git
 g++ src/main.cpp -o b_shooter -lsfml-graphics -lsfml-window -lsfml-system
 ```
 
-<br/>
+
 
 ### Run
 Finally, run the executable file simply using:
@@ -38,7 +38,7 @@ Finally, run the executable file simply using:
 ./b_shooter
 ```
 
-<br/>
+
 
 ### Screenshots
 | ![scr1](https://github.com/kimiaf1998/Bubble-Shooter-Game/blob/master/screenshots/3.png "scr1") | ![scr2](https://github.com/kimiaf1998/Bubble-Shooter-Game/blob/master/screenshots/2.png "scr2") |
